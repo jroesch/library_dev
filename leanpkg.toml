@@ -3,3 +3,5 @@ name = "library_dev"
 version = "0.1"
 
 [dependencies]
+super = { path = "https://github.com/leanprover/super" }
+mini_crush = { path = " https://github.com/leanprover/mini_crush" }
